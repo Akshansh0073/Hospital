@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (Patient Record)">f36cbdfbc3b3e21025f21533e401318c</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (Patient Record)</name>
+        <order/>
+        <parent>6f6cbdfbc3b3e21025f21533e4013173</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-12 07:26:18</sys_created_on>
+        <sys_id>7b6cbdfbc3b3e21025f21533e401318f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (Patient Record)</sys_name>
+        <sys_package display_value="Hospital Management" source="x_1635824_hospital">1cbbb9bbc3b3e21025f21533e40131aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital Management">1cbbb9bbc3b3e21025f21533e40131aa</sys_scope>
+        <sys_update_name>sys_sg_button_instance_7b6cbdfbc3b3e21025f21533e401318f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-12 07:26:18</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=7b6cbdfbc3b3e21025f21533e401318f"/>
+</record_update>

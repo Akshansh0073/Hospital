@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Patient Record)">bf6cbdfbc3b3e21025f21533e4013192</button>
+        <button_parent_table>x_1635824_hospital_patient_record</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>join_date</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <max_entries>1</max_entries>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Join Date</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field>join_date</source_field>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-12 07:26:19</sys_created_on>
+        <sys_id>fb6cbdfbc3b3e21025f21533e4013193</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Join Date</sys_name>
+        <sys_package display_value="Hospital Management" source="x_1635824_hospital">1cbbb9bbc3b3e21025f21533e40131aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital Management">1cbbb9bbc3b3e21025f21533e40131aa</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_fb6cbdfbc3b3e21025f21533e4013193</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-12 07:26:19</sys_updated_on>
+        <table_name>x_1635824_hospital_patient_record</table_name>
+        <virtual_field_value>false</virtual_field_value>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=fb6cbdfbc3b3e21025f21533e4013193"/>
+</record_update>
